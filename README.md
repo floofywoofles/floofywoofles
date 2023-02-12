@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I am floofywoofles (Kevin Knapp) 👋
+I am currently a backend developer who is unemployed, and lives in Ohio.
 
-<!--
-**floofywoofles/floofywoofles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I specialize in
+- Javascript/Typescript/Nodejs/Python
+- NoSQL/SQL/MySQL/MongoDB/Redis
+- Enough docker to get an app with other components running (database, caching db, etc.)
+- Experience with Linux (Ubuntu,Fedora)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+I took a programming course in school for 4 years where I used Python, Java, Unity (C#), and HTML/CSS (Web Design) on school projects. I learned other programming languages outside of school like typescript, C, and C++. However, none of those projects are saved anywhere due to rules that the school had set in place.
+
+## Current Projects
+I am working on a simple CLI todo-app and my own interpreted programming language.
+
+---
+
+## Contact info
+- k.knapp.jr4@gmail.com
