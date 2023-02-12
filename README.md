@@ -1,5 +1,5 @@
 ## Hi, I am floofywoofles (Kevin Knapp) 👋
-I am currently a backend developer who is unemployed, and lives in Ohio.
+I am currently an unemployed backend developer living in Ohio
 
 ---
 
