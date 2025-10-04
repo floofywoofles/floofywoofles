@@ -7,7 +7,7 @@ What projects I am currently working on:
 2: Habitual, a habit tracking app to keep me sane
 <br>
 
-I also have experience in C++, C, and PHP. I did freelance work for Firith.studio, and made a website for a company.
+I also have experience in C++, C, and PHP. I did freelance work for Firith.studio (under NDA), and made a website for a company.
 
 <br>
 
